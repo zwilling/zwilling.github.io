@@ -1,0 +1,26 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Zwilling;Frederik;;;
+FN:Frederik Zwilling
+ORG:Frederik Zwilling Blockchain & AI Solutions
+ADR;TYPE=WORK:Bleichstraße 8,
+64283 Darmstadt,
+Germany
+TITLE:Freelance Blockchain Engineer and AI/Robot Software Developer
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:frederik@codelogic.dev
+URL;TYPE=Digital Business Card:https://codelogic.dev/card
+URL:https://codelogic.dev
+URL;TYPE=Signal:https://signal.me/#p/+41767124816
+URL;TYPE=Telegram:https://t.me/flippy42
+URL;TYPE=WhatsApp:https://wa.me/4915776800418
+URL;TYPE=Website:https://codelogic.dev
+URL;TYPE=LinkedIn:https://linkedin.com/in/frederik-zwilling
+URL;TYPE=GitHub:https://github.com/zwilling
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100775788
+END:VCARD
