@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Zwilling;Frederik;;;
-FN:Frederik Zwilling
-ORG:Frederik Zwilling Blockchain & AI Solutions
+N:Linker;Frederik;;;
+FN:Frederik Linker
+ORG:Frederik Linker Blockchain & AI Solutions
 ADR;TYPE=WORK:Bleichstraße 8,
 64283 Darmstadt,
 Germany
@@ -18,7 +18,7 @@ URL;TYPE=Signal:https://signal.me/#p/+41767124816
 URL;TYPE=Telegram:https://t.me/flippy42
 URL;TYPE=WhatsApp:https://wa.me/4915776800418
 URL;TYPE=Website:https://codelogic.dev
-URL;TYPE=LinkedIn:https://linkedin.com/in/frederik-zwilling
+URL;TYPE=LinkedIn:https://linkedin.com/in/frederik-linker
 URL;TYPE=GitHub:https://github.com/zwilling
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
